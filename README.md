@@ -11,12 +11,12 @@ How to set up a HomeLab running Active Directory using Virtual Oracle Box and ho
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+  
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-
+- <b>Windows 10</b>(21H2)
+- <b>Servers 2019</b>
 <h2>Program walk-through:</h2>
 
 <p align="center">
